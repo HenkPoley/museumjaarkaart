@@ -7,7 +7,7 @@ Staan in `museumjaarkaart-oktober-2024.json`
 
 Syntax:
 ```
-/opt/homebrew/bin/python3 /Users/henk/museumjaarkaart/willekeurig_museum.py
+python3 ./willekeurig_museum.py
 Kies een provincie (bijvoorbeeld 1,2):
 1. Drenthe
 2. Flevoland
