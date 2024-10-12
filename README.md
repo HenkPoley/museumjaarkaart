@@ -1,6 +1,6 @@
 # museumjaarkaart
 
-Gegevens van: https://whichmuseum.nl/kaart/museumkaart-2
+Gegevens van: https://whichmuseum.nl/kaart/museumkaart-2    
 Staan in `museumjaarkaart-oktober-2024.json`
 
 `willekeurig_museum.py` laat een paar willekeurige musea uit de gekozen provincies zien.
