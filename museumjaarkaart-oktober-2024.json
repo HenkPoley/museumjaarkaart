@@ -1,0 +1,2269 @@
+{
+    "Museumkaart": [
+        {
+            "province": "Drenthe",
+            "museums": [
+                {
+                    "name": "Drents Museum",
+                    "location": "Assen",
+                    "valid": null
+                },
+                {
+                    "name": "Hunebedcentrum",
+                    "location": "Borger",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Coevorden",
+                    "location": "Coevorden",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Buitenplaats",
+                    "location": "Eelde",
+                    "valid": null
+                },
+                {
+                    "name": "Internationaal Klompenmuseum",
+                    "location": "Eelde",
+                    "valid": null
+                },
+                {
+                    "name": "Museum voor hedendaagse Tibetaanse Kunst",
+                    "location": "Emmen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Proefkolonie",
+                    "location": "Frederiksoord",
+                    "valid": null
+                },
+                {
+                    "name": "Drukkerijmuseum Meppel",
+                    "location": "Meppel",
+                    "valid": null
+                },
+                {
+                    "name": "Collectie Brands",
+                    "location": "Nieuw-Dordrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Speelgoedmuseum Roden",
+                    "location": "Roden",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Havezate Mensinge",
+                    "location": "Roden",
+                    "valid": null
+                },
+                {
+                    "name": "Het Gevangenismuseum",
+                    "location": "Veenhuizen",
+                    "valid": null
+                },
+                {
+                    "name": "Miramar Zeemuseum",
+                    "location": "Vledder",
+                    "valid": null
+                },
+                {
+                    "name": "Cultuurhistorisch streek- en handkarrenmuseum De Wemme",
+                    "location": "Zuidwolde",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Flevoland",
+            "museums": [
+                {
+                    "name": "Aviodrome",
+                    "location": "Lelystad",
+                    "valid": null
+                },
+                {
+                    "name": "Batavialand",
+                    "location": "Lelystad",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Schokland",
+                    "location": "Schokland",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Het Oude Raadhuis",
+                    "location": "Urk",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Friesland",
+            "museums": [
+                {
+                    "name": "Titus Brandsma Museum",
+                    "location": "Bolsward",
+                    "valid": null
+                },
+                {
+                    "name": "De Kruidhof hortus van Fryslân",
+                    "location": "Buitenpost",
+                    "valid": null
+                },
+                {
+                    "name": "IJstijdenmuseum",
+                    "location": "Buitenpost",
+                    "valid": null
+                },
+                {
+                    "name": "Landbouw en juttersmuseum Swartwoude",
+                    "location": "Buren (Ameland)",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Dokkum",
+                    "location": "Dokkum",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Dr8888",
+                    "location": "Drachten",
+                    "valid": null
+                },
+                {
+                    "name": "Openluchtmuseum De Spitkeet",
+                    "location": "Harkema",
+                    "valid": null
+                },
+                {
+                    "name": "Hannemahuis",
+                    "location": "Harlingen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Heerenveen",
+                    "location": "Heerenveen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Hindeloopen",
+                    "location": "Hindeloopen",
+                    "valid": null
+                },
+                {
+                    "name": "Cultuurhistorisch Museum Sorgdrager",
+                    "location": "Hollum",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Joure",
+                    "location": "Joure",
+                    "valid": null
+                },
+                {
+                    "name": "Kazemattenmuseum Kornwerderzand",
+                    "location": "Kornwerderzand",
+                    "valid": null
+                },
+                {
+                    "name": "Keramiekmuseum Princessehof",
+                    "location": "Leeuwarden",
+                    "valid": "€ 5,00"
+                },
+                {
+                    "name": "Fries Museum",
+                    "location": "Leeuwarden",
+                    "valid": null
+                },
+                {
+                    "name": "Fries Landbouwmuseum",
+                    "location": "Leeuwarden",
+                    "valid": null
+                },
+                {
+                    "name": "'t Fiskershúske",
+                    "location": "Moddergat",
+                    "valid": null
+                },
+                {
+                    "name": "Natuurcentrum Ameland",
+                    "location": "Nes",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Vlechtmuseum",
+                    "location": "Noordwolde",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Belvédère",
+                    "location": "Oranjewoud",
+                    "valid": null
+                },
+                {
+                    "name": "Fries Scheepvaartmuseum",
+                    "location": "Sneek",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Modelspoor Museum",
+                    "location": "Sneek",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Tromp's Huys",
+                    "location": "Vlieland",
+                    "valid": null
+                },
+                {
+                    "name": "Museum 't Behouden Huys",
+                    "location": "West-Terschelling",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Warkums Erfskip",
+                    "location": "Workum",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Gelderland",
+            "museums": [
+                {
+                    "name": "Kasteel Huis Bergh",
+                    "location": "'s-Heerenberg",
+                    "valid": null
+                },
+                {
+                    "name": "Aaltense Musea",
+                    "location": "Aalten",
+                    "valid": null
+                },
+                {
+                    "name": "CODA",
+                    "location": "Apeldoorn",
+                    "valid": null
+                },
+                {
+                    "name": "Paleis Het Loo",
+                    "location": "Apeldoorn",
+                    "valid": null
+                },
+                {
+                    "name": "Huis Zypendaal",
+                    "location": "Arnhem",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Watermuseum",
+                    "location": "Arnhem",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Openluchtmuseum",
+                    "location": "Arnhem",
+                    "valid": null
+                },
+                {
+                    "name": "Eusebiuskerk",
+                    "location": "Arnhem",
+                    "valid": null
+                },
+                {
+                    "name": "Airborne at the Bridge",
+                    "location": "Arnhem",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Nairac",
+                    "location": "Barneveld",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Pluimveemuseum",
+                    "location": "Barneveld",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Tweestromenland",
+                    "location": "Beneden-Leeuwen",
+                    "valid": null
+                },
+                {
+                    "name": "Kijk en Luistermuseum",
+                    "location": "Bennekom",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Buren en Oranje",
+                    "location": "Buren",
+                    "valid": "€ 3,00"
+                },
+                {
+                    "name": "Museum Elisabeth Weeshuis",
+                    "location": "Culemborg",
+                    "valid": null
+                },
+                {
+                    "name": "Openbaar Vervoer & Speelgoed Museum Doesburg",
+                    "location": "Doesburg",
+                    "valid": null
+                },
+                {
+                    "name": "Lalique Museum Nederland",
+                    "location": "Doesburg",
+                    "valid": null
+                },
+                {
+                    "name": "Stadsmuseum Doetinchem",
+                    "location": "Doetinchem",
+                    "valid": null
+                },
+                {
+                    "name": "Fort Pannerden",
+                    "location": "Doornenburg",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteel Doorwerth",
+                    "location": "Doorwerth",
+                    "valid": null
+                },
+                {
+                    "name": "Het Nederlands jachtmuseum",
+                    "location": "Doorwerth",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Scheper",
+                    "location": "Eibergen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Elburg",
+                    "location": "Elburg",
+                    "valid": null
+                },
+                {
+                    "name": "Sjoel Elburg",
+                    "location": "Elburg",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Orgelmuseum",
+                    "location": "Elburg",
+                    "valid": null
+                },
+                {
+                    "name": "Veluws Museum Hagedoorns Plaatse",
+                    "location": "Epe",
+                    "valid": null
+                },
+                {
+                    "name": "Het Pakhuis Ermelo",
+                    "location": "Ermelo",
+                    "valid": null
+                },
+                {
+                    "name": "Museum MORE",
+                    "location": "Gorssel",
+                    "valid": null
+                },
+                {
+                    "name": "Stadsmuseum Groenlo",
+                    "location": "Groenlo",
+                    "valid": null
+                },
+                {
+                    "name": "Vrijheidsmuseum",
+                    "location": "Groesbeek",
+                    "valid": null
+                },
+                {
+                    "name": "Marius van Dokkum Museum",
+                    "location": "Harderwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Anton Pieck Museum",
+                    "location": "Hattem",
+                    "valid": null
+                },
+                {
+                    "name": "Voerman Museum Hattem",
+                    "location": "Hattem",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Bakkerijmuseum",
+                    "location": "Hattem",
+                    "valid": null
+                },
+                {
+                    "name": "Museumpark Orientalis",
+                    "location": "Heilig Landstichting",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteel Hernen",
+                    "location": "Hernen",
+                    "valid": null
+                },
+                {
+                    "name": "GeoFort",
+                    "location": "Herwijnen",
+                    "valid": null
+                },
+                {
+                    "name": "Huis Verwolde",
+                    "location": "Laren (GD)",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Lunteren",
+                    "location": "Lunteren",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Nijkerk",
+                    "location": "Nijkerk",
+                    "valid": null
+                },
+                {
+                    "name": "Valkhof Museum",
+                    "location": "Nijmegen",
+                    "valid": null
+                },
+                {
+                    "name": "Van 't Lindenhoutmuseum",
+                    "location": "Nijmegen",
+                    "valid": null
+                },
+                {
+                    "name": "De Bastei",
+                    "location": "Nijmegen",
+                    "valid": null
+                },
+                {
+                    "name": "Noord-Veluws Museum Nunspeet",
+                    "location": "Nunspeet",
+                    "valid": null
+                },
+                {
+                    "name": "Boerderijmuseum De Bovenstreek",
+                    "location": "Oldebroek",
+                    "valid": null
+                },
+                {
+                    "name": "Airborne Museum Hartenstein",
+                    "location": "Oosterbeek",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Tegelmuseum",
+                    "location": "Otterlo",
+                    "valid": null
+                },
+                {
+                    "name": "Kröller-Müller Museum",
+                    "location": "Otterlo",
+                    "valid": null
+                },
+                {
+                    "name": "Slot Loevestein",
+                    "location": "Poederoijen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Tien Malen",
+                    "location": "Putten",
+                    "valid": null
+                },
+                {
+                    "name": "Museum MORE | Kasteel Ruurlo",
+                    "location": "Ruurlo",
+                    "valid": null
+                },
+                {
+                    "name": "Flipje en Streekmuseum Tiel",
+                    "location": "Tiel",
+                    "valid": null
+                },
+                {
+                    "name": "Gelders Geologisch Museum",
+                    "location": "Velp",
+                    "valid": null
+                },
+                {
+                    "name": "Heiligenbeeldenmuseum",
+                    "location": "Vorden",
+                    "valid": null
+                },
+                {
+                    "name": "De Casteelse Poort",
+                    "location": "Wageningen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Kasteel Wijchen",
+                    "location": "Wijchen",
+                    "valid": null
+                },
+                {
+                    "name": "Villa Mondriaan",
+                    "location": "Winterswijk",
+                    "valid": null
+                },
+                {
+                    "name": "MuseumFabriek Winterswijk",
+                    "location": "Winterswijk",
+                    "valid": null
+                },
+                {
+                    "name": "Wereld van Wenters",
+                    "location": "Winterswijk",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Stadskasteel Zaltbommel",
+                    "location": "Zaltbommel",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Henriette Polak",
+                    "location": "Zutphen",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Zutphen",
+                    "location": "Zutphen",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Limburg",
+            "museums": [
+                {
+                    "name": "Museum van de Vrouw",
+                    "location": "Echt",
+                    "valid": null
+                },
+                {
+                    "name": "Historiehuis van de Maasvallei",
+                    "location": "Elsloo",
+                    "valid": "€ 2,00 korting"
+                },
+                {
+                    "name": "SCHUNCK",
+                    "location": "Heerlen",
+                    "valid": null
+                },
+                {
+                    "name": "Thermenmuseum",
+                    "location": "Heerlen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Peel en Maas",
+                    "location": "Helden",
+                    "valid": "€ 4,00"
+                },
+                {
+                    "name": "Museum de Kantfabriek",
+                    "location": "Horst (LB)",
+                    "valid": null
+                },
+                {
+                    "name": "Discovery Museum",
+                    "location": "Kerkrade",
+                    "valid": null
+                },
+                {
+                    "name": "Natuurhistorisch Museum Maastricht",
+                    "location": "Maastricht",
+                    "valid": null
+                },
+                {
+                    "name": "Bonnefanten museum",
+                    "location": "Maastricht",
+                    "valid": null
+                },
+                {
+                    "name": "Fotomuseum aan het Vrijthof",
+                    "location": "Maastricht",
+                    "valid": null
+                },
+                {
+                    "name": "Marres, Huis voor Hedendaagse Cultuur",
+                    "location": "Maastricht",
+                    "valid": null
+                },
+                {
+                    "name": "Bureau Europa",
+                    "location": "Maastricht",
+                    "valid": null
+                },
+                {
+                    "name": "Natuur Historisch Museum Meerssen",
+                    "location": "Meerssen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Locht",
+                    "location": "Melderslo",
+                    "valid": null
+                },
+                {
+                    "name": "Openluchtmuseum Eynderhoof",
+                    "location": "Nederweert-Eind",
+                    "valid": null
+                },
+                {
+                    "name": "Het Cuypershuis",
+                    "location": "Roermond",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Schat van Simpelveld",
+                    "location": "Simpelveld",
+                    "valid": "€ 4,00"
+                },
+                {
+                    "name": "Het Nieuwe Domein - Erfgoed",
+                    "location": "Sittard",
+                    "valid": null
+                },
+                {
+                    "name": "Het Nieuwe Domein - Hedendaagse Kunst",
+                    "location": "Sittard",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum Stevensweert / Ohé en Laak",
+                    "location": "Stevensweert",
+                    "valid": null
+                },
+                {
+                    "name": "Missiemuseum Steyl",
+                    "location": "Steyl",
+                    "valid": null
+                },
+                {
+                    "name": "Keramiekmuseum Tiendschuur",
+                    "location": "Tegelen",
+                    "valid": null
+                },
+                {
+                    "name": "Gemeentemuseum Het land van Thorn",
+                    "location": "Thorn",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Abdijkerk",
+                    "location": "Thorn",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Land van Valkenburg",
+                    "location": "Valkenburg (LB)",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Romeinse Katakomben",
+                    "location": "Valkenburg (LB)",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteelruïne - Fluweelengrot Valkenburg",
+                    "location": "Valkenburg (LB)",
+                    "valid": null
+                },
+                {
+                    "name": "Museum van Bommel van Dam",
+                    "location": "Venlo",
+                    "valid": null
+                },
+                {
+                    "name": "Limburgs Museum",
+                    "location": "Venlo",
+                    "valid": null
+                },
+                {
+                    "name": "Venrays Museum",
+                    "location": "Venray",
+                    "valid": null
+                },
+                {
+                    "name": "Museum W",
+                    "location": "Weert",
+                    "valid": null
+                },
+                {
+                    "name": "Buitenplaats Kasteel Wijlre",
+                    "location": "Wijlre",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Noord-Brabant",
+            "museums": [
+                {
+                    "name": "Museum Slager",
+                    "location": "'s-Hertogenbosch",
+                    "valid": null
+                },
+                {
+                    "name": "Het Noordbrabants Museum",
+                    "location": "'s-Hertogenbosch",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Klok & Peel",
+                    "location": "Asten",
+                    "valid": null
+                },
+                {
+                    "name": "Het Markiezenhof",
+                    "location": "Bergen op Zoom",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Vekemans",
+                    "location": "Boxtel",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Boxtel",
+                    "location": "Boxtel",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Breda",
+                    "location": "Breda",
+                    "valid": null
+                },
+                {
+                    "name": "De Wieger Deurne",
+                    "location": "Deurne",
+                    "valid": null
+                },
+                {
+                    "name": "De Looierij",
+                    "location": "Dongen",
+                    "valid": null
+                },
+                {
+                    "name": "Kempenmuseum De Acht Zaligheden",
+                    "location": "Eersel",
+                    "valid": null
+                },
+                {
+                    "name": "Van Abbemuseum",
+                    "location": "Eindhoven",
+                    "valid": null
+                },
+                {
+                    "name": "DAF Museum",
+                    "location": "Eindhoven",
+                    "valid": null
+                },
+                {
+                    "name": "preHistorisch Dorp",
+                    "location": "Eindhoven",
+                    "valid": null
+                },
+                {
+                    "name": "Philips Museum",
+                    "location": "Eindhoven",
+                    "valid": null
+                },
+                {
+                    "name": "MU Hybrid Art House",
+                    "location": "Eindhoven",
+                    "valid": null
+                },
+                {
+                    "name": "Heemkundekring en streekmuseum Jan uten Houte",
+                    "location": "Etten-Leur",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Roos",
+                    "location": "Geertruidenberg",
+                    "valid": null
+                },
+                {
+                    "name": "Weverijmuseum Geldrop",
+                    "location": "Geldrop",
+                    "valid": null
+                },
+                {
+                    "name": "Stadsmuseum Grave",
+                    "location": "Grave",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteel Heeswijk",
+                    "location": "Heeswijk-Dinther",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Helmond - Kasteel Helmond",
+                    "location": "Helmond",
+                    "valid": null
+                },
+                {
+                    "name": "Bierbrouwerij De Roos",
+                    "location": "Hilvarenbeek",
+                    "valid": null
+                },
+                {
+                    "name": "Techniek met 'n 'Ziel'",
+                    "location": "Neerkant",
+                    "valid": null
+                },
+                {
+                    "name": "Van Gogh Village Museum",
+                    "location": "Nuenen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum de Vier Quartieren",
+                    "location": "Oirschot",
+                    "valid": null
+                },
+                {
+                    "name": "Speelgoedmuseum \"Op Stelten\"",
+                    "location": "Oosterhout",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Jan Cunen",
+                    "location": "Oss",
+                    "valid": null
+                },
+                {
+                    "name": "Natuurhistorisch en Volkenkundig Museum Oudenbosch",
+                    "location": "Oudenbosch",
+                    "valid": null
+                },
+                {
+                    "name": "Oorlogsmuseum Overloon",
+                    "location": "Overloon",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Tongerlohuys",
+                    "location": "Roosendaal",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Jan Heestershuis",
+                    "location": "Schijndel",
+                    "valid": null
+                },
+                {
+                    "name": "Museum van Brabantse Mutsen en Poffers",
+                    "location": "Sint-Oedenrode",
+                    "valid": null
+                },
+                {
+                    "name": "De Pont museum",
+                    "location": "Tilburg",
+                    "valid": null
+                },
+                {
+                    "name": "TextielMuseum",
+                    "location": "Tilburg",
+                    "valid": null
+                },
+                {
+                    "name": "Natuurmuseum Brabant",
+                    "location": "Tilburg",
+                    "valid": null
+                },
+                {
+                    "name": "Kessels Muziek Instrumenten Tilburg",
+                    "location": "Tilburg",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Krona",
+                    "location": "Uden",
+                    "valid": null
+                },
+                {
+                    "name": "Valkerij en Sigarenmakerij Museum",
+                    "location": "Valkenswaard",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Steendrukmuseum",
+                    "location": "Valkenswaard",
+                    "valid": null
+                },
+                {
+                    "name": "Museum 't Oude Slot",
+                    "location": "Veldhoven",
+                    "valid": null
+                },
+                {
+                    "name": "Geniemuseum",
+                    "location": "Vught",
+                    "valid": null
+                },
+                {
+                    "name": "Het Schoenenkwartier",
+                    "location": "Waalwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Biesbosch MuseumEiland Werkendam",
+                    "location": "Werkendam",
+                    "valid": null
+                },
+                {
+                    "name": "Vincent van GoghHuis",
+                    "location": "Zundert",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Noord-Holland",
+            "museums": [
+                {
+                    "name": "Stedelijk Museum Alkmaar",
+                    "location": "Alkmaar",
+                    "valid": null
+                },
+                {
+                    "name": "Hollands Kaasmuseum",
+                    "location": "Alkmaar",
+                    "valid": null
+                },
+                {
+                    "name": "Museum JAN",
+                    "location": "Amstelveen",
+                    "valid": null
+                },
+                {
+                    "name": "Cobra Museum",
+                    "location": "Amstelveen",
+                    "valid": null
+                },
+                {
+                    "name": "NEMO Science Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Huis Marseille, Museum voor Fotografie",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Het Rembrandthuis",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Van Gogh Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Allard Pierson",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Joods Museum + junior",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Bijbels Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Het Scheepvaartmuseum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "De Appel",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Het Schip",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Amsterdam Pipe Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "H´ART Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Foam Fotografiemuseum Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Wereldmuseum Junior",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Rijksmuseum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Wereldmuseum Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Huis Willet-Holthuysen",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Ons' Lieve Heer op Solder",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Multatuli Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Tot Zover",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Bijzondere Collecties",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Molen van Sloten - Kuiperijmuseum",
+                    "location": "Amsterdam",
+                    "valid": "€ 6,75"
+                },
+                {
+                    "name": "Woonbootmuseum",
+                    "location": "Amsterdam",
+                    "valid": "€ 5,00"
+                },
+                {
+                    "name": "Koninklijk Paleis Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Groote Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Joods Historisch Kindermuseum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Grachtenmuseum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Micropia",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum van de geest | Outsider Art",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Holocaustmuseum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Oude Kerk",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Embassy of the Free Mind",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Luther Museum Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": "€ 2,00 korting"
+                },
+                {
+                    "name": "Levend Paarden Museum & Hollandsche Manege",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Portugese Synagoge",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Diamantmuseum Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Verzetsmuseum Amsterdam",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Amsterdam Museum",
+                    "location": "Amsterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Kranenburgh",
+                    "location": "Bergen (NH)",
+                    "valid": null
+                },
+                {
+                    "name": "Gemeentemuseum Het Sterkenhuis",
+                    "location": "Bergen (NH)",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Kennemerland",
+                    "location": "Beverwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Museum BroekerVeiling",
+                    "location": "Broek op Langedijk",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Waelstee",
+                    "location": "De Waal",
+                    "valid": null
+                },
+                {
+                    "name": "Oudheidkamer Texel",
+                    "location": "Den Burg",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Reddingmuseum Dorus Rijkers",
+                    "location": "Den Helder",
+                    "valid": null
+                },
+                {
+                    "name": "Marinemuseum",
+                    "location": "Den Helder",
+                    "valid": null
+                },
+                {
+                    "name": "De Nollen",
+                    "location": "Den Helder",
+                    "valid": null
+                },
+                {
+                    "name": "Pieter Vermeulen Museum",
+                    "location": "Driehuis",
+                    "valid": null
+                },
+                {
+                    "name": "Edams Museum",
+                    "location": "Edam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum van Egmond",
+                    "location": "Egmond aan Zee",
+                    "valid": null
+                },
+                {
+                    "name": "Flessenscheepjes Museum",
+                    "location": "Enkhuizen",
+                    "valid": null
+                },
+                {
+                    "name": "Sow to Grow",
+                    "location": "Enkhuizen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Haarlem",
+                    "location": "Haarlem",
+                    "valid": null
+                },
+                {
+                    "name": "Frans Hals Museum HAL (Grote Markt 16)",
+                    "location": "Haarlem",
+                    "valid": null
+                },
+                {
+                    "name": "ABC Architectuurcentrum Haarlem",
+                    "location": "Haarlem",
+                    "valid": null
+                },
+                {
+                    "name": "Pieter Teylers Huis",
+                    "location": "Haarlem",
+                    "valid": null
+                },
+                {
+                    "name": "Teylers Museum",
+                    "location": "Haarlem",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Hilversum",
+                    "location": "Hilversum",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Instituut voor Beeld & Geluid",
+                    "location": "Hilversum",
+                    "valid": null
+                },
+                {
+                    "name": "Historisch Museum Haarlemmermeer",
+                    "location": "Hoofddorp",
+                    "valid": null
+                },
+                {
+                    "name": "Westfries Museum",
+                    "location": "Hoorn",
+                    "valid": null
+                },
+                {
+                    "name": "Museum van de 20e Eeuw",
+                    "location": "Hoorn",
+                    "valid": null
+                },
+                {
+                    "name": "Huizer Museum",
+                    "location": "Huizen",
+                    "valid": null
+                },
+                {
+                    "name": "IJmuider Zee- en Havenmuseum",
+                    "location": "IJmuiden",
+                    "valid": null
+                },
+                {
+                    "name": "Molenmuseum - De Zaansche Molen",
+                    "location": "Koog aan de Zaan",
+                    "valid": null
+                },
+                {
+                    "name": "Singer Laren",
+                    "location": "Laren (NH)",
+                    "valid": null
+                },
+                {
+                    "name": "Geologisch Museum Hofland",
+                    "location": "Laren (NH)",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteel-Museum Sypesteyn",
+                    "location": "Loosdrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteel Radboud",
+                    "location": "Medemblik",
+                    "valid": null
+                },
+                {
+                    "name": "Bakkerijmuseum De Oude Bakkerij",
+                    "location": "Medemblik",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Stoommachinemuseum",
+                    "location": "Medemblik",
+                    "valid": null
+                },
+                {
+                    "name": "Oorlogsmuseum Medemblik",
+                    "location": "Medemblik",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Betje Wolff",
+                    "location": "Middenbeemster",
+                    "valid": null
+                },
+                {
+                    "name": "Forteiland Pampus",
+                    "location": "Muiden",
+                    "valid": null
+                },
+                {
+                    "name": "Het Nederlands Vestingmuseum",
+                    "location": "Naarden",
+                    "valid": null
+                },
+                {
+                    "name": "Weegschaalmuseum",
+                    "location": "Naarden",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Kaap Skil",
+                    "location": "Oudeschild",
+                    "valid": null
+                },
+                {
+                    "name": "Museummolen Schermerhorn",
+                    "location": "Schermerhorn",
+                    "valid": null
+                },
+                {
+                    "name": "Kunstfort bij Vijfhuizen",
+                    "location": "Vijfhuizen",
+                    "valid": null
+                },
+                {
+                    "name": "Volendams Museum",
+                    "location": "Volendam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Weesp",
+                    "location": "Weesp",
+                    "valid": null
+                },
+                {
+                    "name": "Zaans Museum",
+                    "location": "Zaandam",
+                    "valid": null
+                },
+                {
+                    "name": "Czaar Peterhuisje",
+                    "location": "Zaandam",
+                    "valid": null
+                },
+                {
+                    "name": "Zaanse Schans",
+                    "location": "Zaandam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Zaanse Tijd",
+                    "location": "Zaandam",
+                    "valid": null
+                },
+                {
+                    "name": "Honig Breethuis",
+                    "location": "Zaandijk",
+                    "valid": null
+                },
+                {
+                    "name": "Zandvoorts Museum",
+                    "location": "Zandvoort",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Overijssel",
+            "museums": [
+                {
+                    "name": "Stedelijk Museum Almelo",
+                    "location": "Almelo",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Bussemakerhuis",
+                    "location": "Borne",
+                    "valid": null
+                },
+                {
+                    "name": "Zoutmuseum Delden",
+                    "location": "Delden",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Natura Docet",
+                    "location": "Denekamp",
+                    "valid": null
+                },
+                {
+                    "name": "Historisch Museum Deventer",
+                    "location": "Deventer",
+                    "valid": null
+                },
+                {
+                    "name": "Speelgoedmuseum Deventer",
+                    "location": "Deventer",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Waag",
+                    "location": "Deventer",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Geert Groote Huis",
+                    "location": "Deventer",
+                    "valid": null
+                },
+                {
+                    "name": "Kunstvereniging Diepenheim",
+                    "location": "Diepenheim",
+                    "valid": null
+                },
+                {
+                    "name": "Rijksmuseum Twenthe",
+                    "location": "Enschede",
+                    "valid": null
+                },
+                {
+                    "name": "De Museumfabriek",
+                    "location": "Enschede",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Giethoorn 't Olde Maat Uus",
+                    "location": "Giethoorn",
+                    "valid": null
+                },
+                {
+                    "name": "Museum de Fundatie",
+                    "location": "Heino",
+                    "valid": null
+                },
+                {
+                    "name": "Oyfo Techniekmuseum",
+                    "location": "Hengelo",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Kampen",
+                    "location": "Kampen",
+                    "valid": null
+                },
+                {
+                    "name": "Voormalige Synagoge",
+                    "location": "Kampen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Het Palthe-Huis",
+                    "location": "Oldenzaal",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Pelgrim",
+                    "location": "Oldenzaal",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Tinnen Figuren Museum",
+                    "location": "Ommen",
+                    "valid": null
+                },
+                {
+                    "name": "Openluchtmuseum Ootmarsum",
+                    "location": "Ootmarsum",
+                    "valid": null
+                },
+                {
+                    "name": "Museum het Drostenhuis",
+                    "location": "Ootmarsum",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Staphorst",
+                    "location": "Staphorst",
+                    "valid": null
+                },
+                {
+                    "name": "Villa Rams Woerthe",
+                    "location": "Steenwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Hildo Krop Museum",
+                    "location": "Steenwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Historisch Museum Vriezenveen",
+                    "location": "Vriezenveen",
+                    "valid": null
+                },
+                {
+                    "name": "Schoonewelle Museum voor Natuur en Ambacht",
+                    "location": "Zwartsluis",
+                    "valid": null
+                },
+                {
+                    "name": "Museum de Fundatie",
+                    "location": "Zwolle",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Groningen",
+            "museums": [
+                {
+                    "name": "MOW I Museum Westerwolde",
+                    "location": "Bellingwolde",
+                    "valid": null
+                },
+                {
+                    "name": "Muzeeaquarium Delfzijl",
+                    "location": "Delfzijl",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Wierdenland",
+                    "location": "Ezinge",
+                    "valid": "€ 2,50"
+                },
+                {
+                    "name": "Groninger Museum",
+                    "location": "Groningen",
+                    "valid": "€ 10,00"
+                },
+                {
+                    "name": "Museum aan de A",
+                    "location": "Groningen",
+                    "valid": null
+                },
+                {
+                    "name": "Universiteitsmuseum Groningen",
+                    "location": "Groningen",
+                    "valid": null
+                },
+                {
+                    "name": "Borg en Nationaal Rijtuigmuseum Nienoord",
+                    "location": "Leek",
+                    "valid": null
+                },
+                {
+                    "name": "De Fraeylemaborg",
+                    "location": "Slochteren",
+                    "valid": null
+                },
+                {
+                    "name": "Klooster Ter Apel",
+                    "location": "Ter Apel",
+                    "valid": null
+                },
+                {
+                    "name": "Menkemaborg",
+                    "location": "Uithuizen",
+                    "valid": null
+                },
+                {
+                    "name": "Veenkoloniaal Museum Veendam",
+                    "location": "Veendam",
+                    "valid": null
+                },
+                {
+                    "name": "Openluchtmuseum Het Hoogeland",
+                    "location": "Warffum",
+                    "valid": null
+                },
+                {
+                    "name": "Visserijmuseum Zoutkamp",
+                    "location": "Zoutkamp",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Utrecht",
+            "museums": [
+                {
+                    "name": "Kasteel Amerongen",
+                    "location": "Amerongen",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Flehite",
+                    "location": "Amersfoort",
+                    "valid": null
+                },
+                {
+                    "name": "Mondriaanhuis",
+                    "location": "Amersfoort",
+                    "valid": null
+                },
+                {
+                    "name": "Cavaleriemuseum",
+                    "location": "Amersfoort",
+                    "valid": null
+                },
+                {
+                    "name": "Kunsthal KAdE",
+                    "location": "Amersfoort",
+                    "valid": null
+                },
+                {
+                    "name": "Musiom",
+                    "location": "Amersfoort",
+                    "valid": null
+                },
+                {
+                    "name": "Waterliniemuseum Fort bij Vechten",
+                    "location": "Bunnik",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Spakenburg",
+                    "location": "Bunschoten-Spakenburg",
+                    "valid": null
+                },
+                {
+                    "name": "Kasteel De Haar",
+                    "location": "Haarzuilens",
+                    "valid": null
+                },
+                {
+                    "name": "Vechtstreekmuseum",
+                    "location": "Maarssen",
+                    "valid": null
+                },
+                {
+                    "name": "Slot Zuylen",
+                    "location": "Oud-Zuilen",
+                    "valid": null
+                },
+                {
+                    "name": "Touwmuseum De Baanschuur",
+                    "location": "Oudewater",
+                    "valid": null
+                },
+                {
+                    "name": "Museum de Heksenwaag",
+                    "location": "Oudewater",
+                    "valid": null
+                },
+                {
+                    "name": "Stadsmuseum Rhenen",
+                    "location": "Rhenen",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Militair Museum",
+                    "location": "Soest",
+                    "valid": null
+                },
+                {
+                    "name": "Sonnenborgh",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Centraal Museum",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Botanische Tuinen Utrecht",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Volksbuurtmuseum",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Het Spoorwegmuseum",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "nijntje museum",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Rietveld Schröderhuis",
+                    "location": "Utrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Stadsmuseum Veenendaal",
+                    "location": "Veenendaal",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Vianen",
+                    "location": "Vianen",
+                    "valid": null
+                },
+                {
+                    "name": "Stadsmuseum Woerden",
+                    "location": "Woerden",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Zeeland",
+            "museums": [
+                {
+                    "name": "Gemeentelijk Archeologisch Museum Aardenburg",
+                    "location": "Aardenburg",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum het Warenhuis",
+                    "location": "Axel",
+                    "valid": null
+                },
+                {
+                    "name": "Visserijmuseum Breskens",
+                    "location": "Breskens",
+                    "valid": null
+                },
+                {
+                    "name": "Marie Tak van Poortvliet Museum",
+                    "location": "Domburg",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Goemanszorg",
+                    "location": "Dreischor",
+                    "valid": null
+                },
+                {
+                    "name": "Historisch Museum De Bevelanden",
+                    "location": "Goes",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Het Bolwerk",
+                    "location": "IJzendijke",
+                    "valid": null
+                },
+                {
+                    "name": "ZeeuwsFruitMuseum",
+                    "location": "Kapelle",
+                    "valid": null
+                },
+                {
+                    "name": "Zeeuws Museum",
+                    "location": "Middelburg",
+                    "valid": null
+                },
+                {
+                    "name": "De Vleeshal",
+                    "location": "Middelburg",
+                    "valid": null
+                },
+                {
+                    "name": "Bevrijdingsmuseum Zeeland",
+                    "location": "Nieuwdorp",
+                    "valid": null
+                },
+                {
+                    "name": "Industrieel museum Zeeland",
+                    "location": "Sas van Gent",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum De Meestoof",
+                    "location": "Sint-Annaland",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Het Belfort",
+                    "location": "Sluis",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Veere",
+                    "location": "Veere",
+                    "valid": null
+                },
+                {
+                    "name": "Maritiem Muzeeum Zeeland",
+                    "location": "Vlissingen",
+                    "valid": null
+                },
+                {
+                    "name": "Stadhuismuseum Zierikzee",
+                    "location": "Zierikzee",
+                    "valid": null
+                }
+            ]
+        },
+        {
+            "province": "Zuid-Holland",
+            "museums": [
+                {
+                    "name": "Archeon",
+                    "location": "Alphen aan Den Rijn",
+                    "valid": null
+                },
+                {
+                    "name": "Boomkwekerijmuseum",
+                    "location": "Boskoop",
+                    "valid": null
+                },
+                {
+                    "name": "Historisch Museum Den Briel",
+                    "location": "Brielle",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Paul Tetar van Elven",
+                    "location": "Delft",
+                    "valid": null
+                },
+                {
+                    "name": "TU Delft Hortus Botanicus",
+                    "location": "Delft",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Prinsenhof Delft",
+                    "location": "Delft",
+                    "valid": null
+                },
+                {
+                    "name": "Vermeer Centrum Delft",
+                    "location": "Delft",
+                    "valid": "€ 9,00"
+                },
+                {
+                    "name": "Haags Historisch Museum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Louwman Museum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Bredius",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Meermanno",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Museon-Omniversum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Kunstmuseum Den Haag",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Literatuurmuseum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Louis Couperus Museum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Panorama Mesdag",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Museum de Gevangenpoort",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Galerij Prins Willem V",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "De Mesdag Collectie",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Archief",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Mauritshuis",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "stg. Moluks Historisch Museum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "West Den Haag",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Monument Oranjehotel",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Vrijmetselarij Museum",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "NEST - ruimte voor kunst",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Sophiahof - van Indie tot nu",
+                    "location": "Den Haag",
+                    "valid": null
+                },
+                {
+                    "name": "Design Museum Dedel",
+                    "location": "Den Haag",
+                    "valid": "€ 10,00"
+                },
+                {
+                    "name": "Nationaal Onderwijsmuseum",
+                    "location": "Dordrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Huis van Gijn",
+                    "location": "Dordrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Dordrechts Museum",
+                    "location": "Dordrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Het Dordts Patriciërshuis",
+                    "location": "Dordrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Hof van Nederland",
+                    "location": "Dordrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Gorcums Museum",
+                    "location": "Gorinchem",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Gouda",
+                    "location": "Gouda",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Paulina Bisdom van Vliet",
+                    "location": "Haastrecht",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum Hoeksche Waard",
+                    "location": "Heinenoord",
+                    "valid": null
+                },
+                {
+                    "name": "Brandweermuseum Hellevoetsluis",
+                    "location": "Hellevoetsluis",
+                    "valid": null
+                },
+                {
+                    "name": "Ramtorenschip Buffel",
+                    "location": "Hellevoetsluis",
+                    "valid": null
+                },
+                {
+                    "name": "Westlands Museum",
+                    "location": "Honselersdijk",
+                    "valid": null
+                },
+                {
+                    "name": "Katwijks Museum",
+                    "location": "Katwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum Krimpenerwaard",
+                    "location": "Krimpen aan Den IJssel",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Glasmuseum",
+                    "location": "Leerdam",
+                    "valid": null
+                },
+                {
+                    "name": "Japanmuseum SieboldHuis",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Lakenhal",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Rijksmuseum Boerhaave",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Rijksmuseum van Oudheden",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Naturalis Biodiversity Center",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Hortus Botanicus Leiden",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Molenmuseum De Valk",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Wereldmuseum Leiden",
+                    "location": "Leiden",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Zwarte Tulp",
+                    "location": "Lisse",
+                    "valid": null
+                },
+                {
+                    "name": "Nationaal Sleepvaart Museum",
+                    "location": "Maassluis",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Maassluis",
+                    "location": "Maassluis",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Noordwijk",
+                    "location": "Noordwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Space Expo",
+                    "location": "Noordwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum Veldzicht",
+                    "location": "Noordwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Engelandvaarders",
+                    "location": "Noordwijk",
+                    "valid": null
+                },
+                {
+                    "name": "Museum of Comic Art",
+                    "location": "Noordwijk",
+                    "valid": "€ 6,00"
+                },
+                {
+                    "name": "Museum Het Spinozahuis",
+                    "location": "Rijnsburg",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Rijswijk",
+                    "location": "Rijswijk",
+                    "valid": null
+                },
+                {
+                    "name": "Kunstinstituut Melly",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Mariniersmuseum",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Chabot Museum",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "TENT Rotterdam",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Wereldmuseum Rotterdam",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Rotterdam '40-'45 NU",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Kunsthal Rotterdam",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Belasting & Douane Museum",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Natuurhistorisch Museum Rotterdam",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Fotomuseum",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Trompenburg Tuinen & Arboretum",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Nieuwe Instituut",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Huis Sonneveld",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Maritiem Museum Rotterdam",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Depot Boijmans Van Beuningen",
+                    "location": "Rotterdam",
+                    "valid": null
+                },
+                {
+                    "name": "Muzee Scheveningen",
+                    "location": "Scheveningen",
+                    "valid": null
+                },
+                {
+                    "name": "Beelden aan Zee",
+                    "location": "Scheveningen",
+                    "valid": null
+                },
+                {
+                    "name": "Stedelijk Museum Schiedam",
+                    "location": "Schiedam",
+                    "valid": null
+                },
+                {
+                    "name": "Nederlands Zilvermuseum Schoonhoven",
+                    "location": "Schoonhoven",
+                    "valid": null
+                },
+                {
+                    "name": "Streekmuseum Goeree-Overflakkee",
+                    "location": "Sommelsdijk",
+                    "valid": null
+                },
+                {
+                    "name": "Stoomtrein Katwijk Leiden",
+                    "location": "Valkenburg (ZH)",
+                    "valid": null
+                },
+                {
+                    "name": "Swaensteyn Museum",
+                    "location": "Voorburg",
+                    "valid": null
+                },
+                {
+                    "name": "Huygensmuseum Hofwijck",
+                    "location": "Voorburg",
+                    "valid": null
+                },
+                {
+                    "name": "Museum Voorschoten",
+                    "location": "Voorschoten",
+                    "valid": null
+                },
+                {
+                    "name": "Museum De Voorde",
+                    "location": "Zoetermeer",
+                    "valid": null
+                }
+            ]
+        }
+    ]
+}
